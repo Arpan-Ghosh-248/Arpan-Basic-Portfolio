@@ -1,6 +1,6 @@
 # Portfolio
 
-This is my portfolio project using HTML/CSS and Bootstrap. I will be using this to show case my project!
+This is my portfolio project using HTML/CSS and Bootstrap. I will be using this to show case my Projects!
 
 
 [live Replit Deployment](https://portfolio.arpanghosh7.repl.co/)
